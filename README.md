@@ -171,3 +171,5 @@ Now back to our `OrderProcessor`
    - If `products_available?` is `false`
      - Do not call `ship` on the order
      - Return `false` from `ship` on the processor
+
+Inits -- Brad Mortensen
